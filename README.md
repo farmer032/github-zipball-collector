@@ -1,4 +1,4 @@
-# github-zipball-downloader
+# github-zipball-collector
 Backup tool for Github. Saves zipball to local mashine
 
 USAGE:
